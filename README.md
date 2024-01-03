@@ -41,7 +41,7 @@ Performed various filters,sorts to extract relevant data
 
 1.The company has seen a growth of 3% Profit in FY2022 compared to its profit% in FY2021
 
-2.January has been the best selling month
+2.Q4 sales has got better during FY2022, with November being the best selling month
 
 3.Amoung the listed, Product41 is the best performing in-terms of sales across both years
 
